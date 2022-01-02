@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "body": "This is the first post",
+     "user": {
+        "id": 1,
+        "emailAddress": "Randerson723@gmail.com"
+      }
+   },
+    {
+      "id": 2,
+      "body": "This is the second post",
+      "user": {
+        "id": 1,
+       "emailAddress": "Randerson723@gmail.com"
+      }
+    },
+    {
+      "id": 3,
+      "body": "This is the third post",
+      "user": {
+        "id": 3,
+       "emailAddress": "derekh@codingtemple.com"
+      }
+    }
+ ]
